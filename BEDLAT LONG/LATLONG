@@ -1,0 +1,15 @@
+Mi ubicación:19.27067885928226, -99.00491311968922
+long1= -99.00491311968922
+lat1= 19.27067885928226
+
+Tienda andorra:
+
+long2= 1.53
+lat2=42.51
+
+diferencia _longitudes=long2-long1
+diferencia_longitudes=1.53 - (-99.00491311968922)=100.67
+
+diferencia_latitudes=lat2-lat1
+diferencia_latitudes=42.51- 19.376=23.134
+distancia=raiz_cuadrada (100.67^ 2 + 23.134)
