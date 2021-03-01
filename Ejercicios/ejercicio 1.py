@@ -1,4 +1,4 @@
-#declarar las variables
+#declarar las variables ENTRADAS
 print ("escribe numero1: ")
 calificacion1= int (input ())
 
@@ -9,9 +9,10 @@ print ("escribe numero3: ")
 calificacion3= int (input ())
 
 
-#operaciones
+#operaciones PROCESO
 suma=calificacion1 + calificacion2 + calificacion3
 promedio=(suma/3)
 
 
+#SALIDA RESULTADO
 print(f"el promedio es igual a={promedio} ")
