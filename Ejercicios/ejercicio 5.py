@@ -10,7 +10,7 @@ grados_kelvin= float (input ())
 
 
 #operaciones PROCESO
-#edad de la persona=año actual- año de nacimiento
+
 grados_fahrenheit_resultado1= (grados_centigrados * 9/5) + 32
 
 grados_kelvin_resultado1=grados_centigrados + 273.15
