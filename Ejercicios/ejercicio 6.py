@@ -7,9 +7,6 @@ b= float (input ())
 print ("escribe el valor de c:")
 c= float (input ())
 
-
-
-
 #operaciones PROCESO
 
 formula_generalx1=(-b+(pow(b**2-4*a*c,1/2)))/(2*a)
